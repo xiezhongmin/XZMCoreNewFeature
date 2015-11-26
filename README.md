@@ -6,7 +6,6 @@
 
 ##普通图片滚动新特性界面
 ![(logo)](http://7xkt3g.com1.z0.glb.clouddn.com/CoreNewFeatureputong.gif)
-
 ```objc
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
@@ -48,7 +47,6 @@ return YES;
 
 ##视频新特性界面
 ![(logo)](http://7xkt3g.com1.z0.glb.clouddn.com/CoreNewFeatureshiping.gif)
-
 ```objc
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
