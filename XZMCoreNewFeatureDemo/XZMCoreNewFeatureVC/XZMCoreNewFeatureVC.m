@@ -182,7 +182,7 @@ NSString *const NewFeatureVersionKey = @"NewFeatureVersionKey";
     [newFeatureVC saveVersion];
     
     //记录block
-    newFeatureVC.enterBlock =enterBlock;
+    newFeatureVC.enterBlock = enterBlock;
     
     return newFeatureVC;
 }

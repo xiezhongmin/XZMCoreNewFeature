@@ -46,7 +46,12 @@ return YES;
 ```
 
 ##视频新特性界面
+###每天APP
 ![(logo)](http://7xkt3g.com1.z0.glb.clouddn.com/CoreNewFeatureshiping.gif)
+
+
+###美团外卖APP
+![(logo)](http://7xkt3g.com1.z0.glb.clouddn.com/CoreNewFeaturemeitushiping.gif)
 ```objc
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

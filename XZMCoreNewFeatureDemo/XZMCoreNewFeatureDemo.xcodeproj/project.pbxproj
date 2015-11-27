@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04D488E21C0800AF00E9D6EB /* 美团启动视频.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 04D488E11C0800AF00E9D6EB /* 美团启动视频.m4v */; settings = {ASSET_TAGS = (); }; };
 		04DD7C521C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DD7C511C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoTests.m */; };
 		04DD7C5D1C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DD7C5C1C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoUITests.m */; };
 		04DD7C741C06BB6B0011B721 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DD7C6A1C06BB6B0011B721 /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
@@ -61,6 +62,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04D488E11C0800AF00E9D6EB /* 美团启动视频.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = "美团启动视频.m4v"; sourceTree = "<group>"; };
 		04DD7C351C06BB280011B721 /* XZMCoreNewFeaturePlayerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XZMCoreNewFeaturePlayerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DD7C4D1C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XZMCoreNewFeaturePlayerDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DD7C511C06BB280011B721 /* XZMCoreNewFeaturePlayerDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XZMCoreNewFeaturePlayerDemoTests.m; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 		04DD7C931C06D6D80011B721 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				04D488E11C0800AF00E9D6EB /* 美团启动视频.m4v */,
 				04DD7C941C06D6D80011B721 /* main.m */,
 				04DD7C951C06D6D80011B721 /* 启动视频.mp4 */,
 			);
@@ -447,6 +450,7 @@
 				04DD7C751C06BB6B0011B721 /* Assets.xcassets in Resources */,
 				04DD7C971C06D6D80011B721 /* 启动视频.mp4 in Resources */,
 				04DD7C761C06BB6B0011B721 /* LaunchScreen.storyboard in Resources */,
+				04D488E21C0800AF00E9D6EB /* 美团启动视频.m4v in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -846,6 +850,7 @@
 				04DD7C611C06BB280011B721 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04DD7C621C06BB280011B721 /* Build configuration list for PBXNativeTarget "XZMCoreNewFeaturePlayerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -854,6 +859,7 @@
 				04DD7C641C06BB280011B721 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04DD7C651C06BB280011B721 /* Build configuration list for PBXNativeTarget "XZMCoreNewFeaturePlayerDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -862,6 +868,7 @@
 				04DD7C671C06BB280011B721 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC6A99331C062072005B8680 /* Build configuration list for PBXProject "XZMCoreNewFeatureDemo" */ = {
 			isa = XCConfigurationList;

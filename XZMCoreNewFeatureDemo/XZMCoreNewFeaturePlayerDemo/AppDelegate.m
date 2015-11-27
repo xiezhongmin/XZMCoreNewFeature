@@ -30,7 +30,7 @@
     canShow = YES;
     
     if(canShow){ // 初始化新特性界面
-        window.rootViewController = [XZMCoreNewFeatureVC newFeatureVCWithPlayerURL:[[NSBundle mainBundle] URLForResource:@"启动视频.mp4" withExtension:nil] enterBlock:^{
+        window.rootViewController = [XZMCoreNewFeatureVC newFeatureVCWithPlayerURL:[[NSBundle mainBundle] URLForResource:@"美团启动视频.m4v" withExtension:nil] enterBlock:^{
             
             NSLog(@"进入主页面");
             [self enter];
